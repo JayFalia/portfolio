@@ -1014,6 +1014,10 @@ pre {
     margin-left: 91.66667%; } }
 
 @media (min-width: 992px) {
+  .col-lg-8.col-md-6.ftco-animate.d-flex.align-items-center.fadeInUp.ftco-animated {
+      margin-top: -100px;
+  }
+
   .col-lg {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -1554,6 +1558,9 @@ pre {
       border: 0; } }
 
 @media (max-width: 767.98px) {
+  .col-lg-8.col-md-6.ftco-animate.d-flex.align-items-center.fadeInUp.ftco-animated {
+      margin-top: -100px;
+  }
   .table-responsive-md {
     display: block;
     width: 100%;
